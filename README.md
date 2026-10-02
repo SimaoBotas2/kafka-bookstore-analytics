@@ -4,8 +4,6 @@ Real-time analytics pipeline for a bookstore built on Apache Kafka. Purchase and
 
 University project for the *Integração de Sistemas* (Systems Integration) course, Computer Engineering (LEI), University of Coimbra.
 
-<!-- TODO: add a screenshot or GIF of the chat interface answering a metrics question -->
-
 ## Features
 
 - Kafka Streams topology computing 13 metrics over `Purchases` and `Sales` events, including time-windowed aggregations
@@ -115,8 +113,6 @@ Through the chat you can ask for metrics or generate events, for example:
 - *"Sell 5 copies of book 3 to Portugal for 20 euros"*
 - *"Generate 10 random test transactions"*
 - *"What is the total profit?"*
-
-<!-- TODO: add a real example conversation or output -->
 
 ## Authors
 
