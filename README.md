@@ -2,7 +2,7 @@
 
 Real-time analytics pipeline for a bookstore built on Apache Kafka. Purchase and sale events are processed by Kafka Streams into 13 business metrics (revenue, expenses, profit, averages, top book, last-hour windows, sales by country), stored in PostgreSQL through Kafka Connect, and exposed through a REST API and an AI agent (LangChain + MCP) that can both query the metrics and produce new events.
 
-University project for the *Integração de Sistemas* (Systems Integration) course, Computer Engineering (LEI), University of Coimbra.
+University project for the *Integração de Sistemas* (Systems Integration) course, MSc in Software Engineering (MEI), University of Coimbra.
 
 ## Features
 
@@ -116,4 +116,4 @@ Through the chat you can ask for metrics or generate events, for example:
 
 ## Authors
 
-Simão Carvalho, André Rodrigues · University of Coimbra · Computer Engineering · 2026
+Simão Carvalho, André Rodrigues · University of Coimbra · MSc in Software Engineering · 2026
