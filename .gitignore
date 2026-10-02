@@ -1,0 +1,15 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+target/
+*.class
+*.log
+logs/
+*.db
+.idea/
+.vscode/
+*.pdf
+docs/ORAL_DEFENSE_PREP.md
+docs/DEMO_ROADMAP.md
